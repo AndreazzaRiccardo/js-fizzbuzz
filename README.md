@@ -11,7 +11,7 @@ Per i numeri che sono sia multipli di 3 che di 5 stampi “FizzBuzz”.
 ### LOGICA:
 
 1. Imposto un ciclo for da 0 a 100;
-2. Per ogni iterazione prendo i multipli di 3, i multipli di 5, e i multipli di entrambi facendo in modo che mi diano un messaggio diverso come risultato;
+2. Per ogni iterazione prendo i multipli di 3, i multipli di 5, e i multipli di entrambi facendo in modo che diano un messaggio diverso come risultato;
 
 ### OUTPUT:
 1. Creo un container e una griglia con all'interno una lista composta da tutti gli elementi generati tramite il ciclo for, stampando all'interno il loro corrispondente messaggio;

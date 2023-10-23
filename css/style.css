@@ -56,3 +56,7 @@ h1 {
 .green {
     background-color: lightgreen;
 }
+
+.hidden {
+    visibility: hidden;
+}
